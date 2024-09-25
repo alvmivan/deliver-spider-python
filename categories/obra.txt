@@ -1,0 +1,16 @@
+ladrillo
+cemento
+cal
+hierro
+tornillo
+clavo
+madera
+tabla
+pintura
+pincel
+rodillo
+destornillador
+pisna
+cinta
+cuerda
+taladro

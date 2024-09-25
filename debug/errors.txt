@@ -1,0 +1,5 @@
+Error: Field details is not of type <class 'str'> on item: {'name': 'SMART TV SAMSUNG CU7000 55 LED UHD', 'price': 955499, 'photo': 'https://images.fravega.com/f300/3ba50b6f15528029591421d4b75c0a32.jpg', 'url': 'https://www.fravega.com/p/smart-tv-samsung-cu7000-55-led-uhd-21255880/', 'details': None, 'brand': 'Cant find brands for fravega product'}
+Date and hour: Friday 23/August/2024 at 04:01PM
+
+--------------------------------------------------
+
